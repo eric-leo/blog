@@ -6,4 +6,5 @@ node_modules/
 public/
 .deploy*/
 .history
+scripts
 package-lock.json
